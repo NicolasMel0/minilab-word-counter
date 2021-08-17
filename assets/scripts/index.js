@@ -16,3 +16,5 @@ function wordCounter(text) {
   }
   count.innerText = wordCount;
 }
+
+// estou tentando colocar o botão até amanhã atualizo o git
